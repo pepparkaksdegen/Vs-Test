@@ -1,0 +1,23 @@
+body {
+  font-family: Arial, sans-serif;
+  background: lightblue;
+  color: #222;
+  max-width: 700px;
+  margin: 60px auto;
+  padding: 0 20px;
+}
+
+h1 {
+  color: #2b6cb0;
+}
+nav a {
+  margin-right: 15px;
+  color: #2b6cb0;
+  text-decoration: none;
+}
+section {
+  background: white;
+  padding: 20px;
+  margin-top: 20px;
+  border-radius: 8px;
+}
